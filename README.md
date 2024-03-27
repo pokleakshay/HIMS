@@ -1,2 +1,1 @@
-# HIMS
-Hospital Information Management System
+Swiggy Data-Base ER Diagram
